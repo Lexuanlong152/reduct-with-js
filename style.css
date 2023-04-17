@@ -1,0 +1,49 @@
+* {
+    margin: 0;
+}
+
+body {
+    font-family: 'Roboto';
+}
+
+h1,
+h2 {
+    text-align: center;
+    color: red;
+    margin-bottom: 20px;
+}
+
+#hobbyFormId {
+    padding: 20px;
+    text-align: center;
+}
+
+#hobbyInputId {
+    width: 50%;
+    height: 20px;
+
+}
+
+
+#hobbyListId li {
+
+    margin: auto;
+    list-style: none;
+    text-align: center;
+    padding: 5px;
+}
+
+
+#icon-element {
+    margin-left: 15px;
+}
+
+button {
+    border: none;
+    background-color: #fff;
+}
+
+.hobby-list {
+    border: 1px solid black;
+    width: 30%;
+}
